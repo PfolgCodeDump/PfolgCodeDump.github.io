@@ -17,7 +17,7 @@ function normalizeUrl(url) {
 const siteUrl = normalizeUrl(
   process.env.NEXT_PUBLIC_SITE_URL || "https://yourdomain.com",
 );
-const siteName = process.env.NEXT_PUBLIC_SITE_NAME || "Pblog";
+const siteName = process.env.NEXT_PUBLIC_SITE_NAME || "FunRadiusP";
 const siteDescription =
   process.env.NEXT_PUBLIC_SITE_DESCRIPTION || "个人博客，记录学习、生活和思考";
 const authorName = process.env.NEXT_PUBLIC_AUTHOR_NAME || "Your Name";

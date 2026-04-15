@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { getCategories, getPostsByCategory } from '../../lib/posts';
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://yourdomain.com";
-const siteName = process.env.NEXT_PUBLIC_SITE_NAME || "Pblog";
+const siteName = process.env.NEXT_PUBLIC_SITE_NAME || "FunRadiusP";
 const siteDescription = process.env.NEXT_PUBLIC_SITE_DESCRIPTION || "个人博客，记录学习、生活和思考";
 
 export const metadata: Metadata = {
@@ -31,7 +31,7 @@ export default function CategoriesPage() {
   return (
     <div className="max-w-4xl mx-auto">
       <h1 className="text-3xl font-bold mb-8 text-primary">分类</h1>
-      
+
       <div className="card overflow-x-auto">
         <table className="min-w-full">
           <thead>
@@ -46,8 +46,8 @@ export default function CategoriesPage() {
               return (
                 <tr key={category} className="border-b border-gray-200 hover:bg-gray-50">
                   <td className="py-3 px-4">
-                    <Link 
-                      href={`/categories/${category}`} 
+                    <Link
+                      href={`/categories/${category}`}
                       className="text-primary hover:underline"
                     >
                       {category}

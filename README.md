@@ -1,9 +1,11 @@
-# Pblog - 静态博客系统
+![banner](public/FunRadiusP.svg)
+
+# FunRadiusP - 静态博客系统
 
 > [!NOTE]
 > 本项目90%以上代码由AI生成
 >
-> GitHub 部署: <https://pfolgcodedump.github.io/Pblog/> (不推荐)
+> GitHub 部署: <https://pfolgcodedump.github.io/FunRadiusP/> (不推荐)
 >
 > Cloudflare 部署: <https://pg25-lsae.eu.org/> (推荐)
 > 这两个站点的文档集中都有关于部署的文档
@@ -85,7 +87,7 @@ npm start
 ## 目录结构
 
 ```
-pblog/
+FunRadiusP/
 ├── app/                      # App Router 页面
 │   ├── layout.tsx            # 根布局
 │   ├── page.tsx              # 首页
@@ -237,7 +239,7 @@ content/demos/
 
 ```env
 NEXT_PUBLIC_SITE_URL=https://yourdomain.com
-NEXT_PUBLIC_SITE_NAME=Pblog
+NEXT_PUBLIC_SITE_NAME=FunRadiusP
 NEXT_PUBLIC_SITE_DESCRIPTION=个人博客，记录学习、生活和思考
 NEXT_PUBLIC_AUTHOR_NAME=Your Name
 ```
