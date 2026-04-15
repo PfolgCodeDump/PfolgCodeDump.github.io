@@ -1,6 +1,6 @@
 ![banner](public/FunRadiusP.svg)
 
-# FunRadiusP - 静态博客系统
+# 静态博客系统
 
 > [!NOTE]
 > 本项目90%以上代码由AI生成
@@ -8,7 +8,7 @@
 > GitHub 部署: <https://pfolgcodedump.github.io/FunRadiusP/> (不推荐)
 >
 > Cloudflare 部署: <https://pg25-lsae.eu.org/> (推荐)
-> 
+>
 > 这两个站点的文档集中都有关于部署的文档
 
 基于 Next.js (App Router) + TypeScript + Tailwind CSS 的纯静态博客生成器。
@@ -83,7 +83,10 @@ npm start
 - GitHub Pages
 - Vercel
 - Netlify
-- Cloudflare Pages
+- Cloudflare Pages （主要支持）
+
+> [!WARNING]
+> 其他静态托管服务可能会有不兼容的bug，如路由问题等
 
 ## 目录结构
 
@@ -139,7 +142,7 @@ FunRadiusP/
 
 在 `content/posts/` 目录下创建文章文件夹，每个文件夹包含 `index.md` 文件：
 
-````markdown
+```markdown
 ---
 title: 文章标题
 published: 2025-04-02
@@ -152,18 +155,19 @@ draft: false
 # 文章内容
 
 这里是你的 Markdown 内容...
+```
 
-支持数学公式：
+## 支持数学公式
+
 $$ E = mc^2 $$
 
-支持代码高亮：
+## 支持代码高亮
 
 ```javascript
 console.log("Hello, World!");
 ```
-````
 
-支持音乐播放器（可选）：
+## 支持音乐播放器（可选）
 
 ```yaml
 ---
@@ -191,8 +195,6 @@ player:
 - `top`/`bottom`/`left`/`right`: 位置配置（可选），默认 `bottom: 40px, left: 40px`
 - `autoPlay`: 是否自动播放（可选），默认自动播放，设置为 `false` 时不自动播放
 
-```
-
 ## Demo 格式
 
 在 `content/demos/` 目录下创建 demo 文件夹，每个文件夹包含以下文件：
@@ -201,15 +203,15 @@ player:
 
 content/demos/
 └── demo-name/
-├── meta.json # 元数据配置
-├── demo.html # 主页面（必需，原 index.html）
-├── show.html # 展示页面（可选，优先使用）
-└── assets/ # 资源文件夹（可选）
-├── style.css
-├── script.js
-└── images/
+    ├── meta.json # 元数据配置
+    ├── demo.html # 主页面
+    ├── show.html # 展示页面（可选，优先使用）
+    └── assets/ # 资源文件夹（可选）
+        ├── style.css
+        ├── script.js
+        └── images/
 
-````
+```
 
 ### meta.json 配置
 
@@ -222,7 +224,7 @@ content/demos/
   "date": "2026-04-09",
   "published": true
 }
-````
+```
 
 - `published`: 设置为 `false` 时该 demo 不会在列表中显示
 
@@ -234,7 +236,7 @@ content/demos/
 
 ## 配置
 
-复制 `.env.example` 为 `.env` 并进行配置。
+复制 `.env.example` 为 `.env`或`.env.local` 并进行配置。
 
 ### 网站基础配置
 
