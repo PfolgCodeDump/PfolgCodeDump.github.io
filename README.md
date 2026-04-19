@@ -307,6 +307,12 @@ NEXT_PUBLIC_HEADER_AUTO_HIDE_ENABLED=true
 
 - `NEXT_PUBLIC_HEADER_AUTO_HIDE_ENABLED`: 是否启用导航栏自动隐藏：true 或 false（默认 true），设置为 `true` 时导航栏会根据鼠标位置自动隐藏，设置为 `false` 时导航栏始终显示
 
+## 常见问题
+
+- 如果进入开发服务器，发现页面404，请酌情修改`next.config.js`中的`basePath`和`assetPrefix`。
+- 没有找到 Live2D 模型，请检查模型路径是否正确。
+- 一切页面和代码你都可以更改，请记住，别人能写的东西你未必不能写。
+
 ## License
 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
