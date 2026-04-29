@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[95755,["/FunRadiusP/_next/static/chunks/0jxzt82izh2d-.js","/FunRadiusP/_next/static/chunks/03g399uzq6ml..js","/FunRadiusP/_next/static/chunks/0d3shmwh5_nmn.js","/FunRadiusP/_next/static/chunks/0uuy5uxi5uiot.js","/FunRadiusP/_next/static/chunks/0soh0aww2p1rf.js"],"default"]
-4:I[97367,["/FunRadiusP/_next/static/chunks/0jxzt82izh2d-.js","/FunRadiusP/_next/static/chunks/03g399uzq6ml..js","/FunRadiusP/_next/static/chunks/0d3shmwh5_nmn.js","/FunRadiusP/_next/static/chunks/0uuy5uxi5uiot.js"],"OutletBoundary"]
+2:I[95755,["/_next/static/chunks/0jxzt82izh2d-.js","/_next/static/chunks/03g399uzq6ml..js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0uuy5uxi5uiot.js","/_next/static/chunks/0soh0aww2p1rf.js"],"default"]
+4:I[97367,["/_next/static/chunks/0jxzt82izh2d-.js","/_next/static/chunks/03g399uzq6ml..js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0uuy5uxi5uiot.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 3:Tae5,<!DOCTYPE html>
 <html lang="zh-CN">
@@ -55,5 +55,5 @@
     <script src="assets/script.js"></script>
 </body>
 
-</html>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"demo":{"id":"demo2","title":"图片画廊","description":"一个带有灯箱效果的图片画廊组件","tags":["JavaScript","HTML","CSS"],"author":"AI Agent","date":"2026-04-09","published":true,"hasDemoHtml":true,"hasShowHtml":false,"assets":["akirevarga-spring-10194616.jpg","heckimg-tree-7619791.jpg","himmelstraeume-bachalpsee-7572681.jpg","kanenori-beach-6292382.jpg","script.js","style.css"]},"htmlContent":"$3"}],[["$","script","script-0",{"src":"/FunRadiusP/_next/static/chunks/0soh0aww2p1rf.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"1XEKjVCO3QS_pg4EqoShM"}
+</html>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"demo":{"id":"demo2","title":"图片画廊","description":"一个带有灯箱效果的图片画廊组件","tags":["JavaScript","HTML","CSS"],"author":"AI Agent","date":"2026-04-09","published":true,"hasDemoHtml":true,"hasShowHtml":false,"assets":["akirevarga-spring-10194616.jpg","heckimg-tree-7619791.jpg","himmelstraeume-bachalpsee-7572681.jpg","kanenori-beach-6292382.jpg","script.js","style.css"]},"htmlContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/0soh0aww2p1rf.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"CnnSkaYgOEhgL1iHSpi0a"}
 6:null
