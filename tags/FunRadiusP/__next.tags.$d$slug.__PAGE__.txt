@@ -1784,7 +1784,7 @@ $$
 [^1]: Markdown是一种纯文本标记语言
 
 [^2]: HyperText Markup Language 超文本标记语言
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"tag":"FunRadiusP","posts":[{"id":"example","title":"markdown 语法","published":"9999年12月31日","description":"Markdown 语法","category":"Note","tags":["FunRadiusP","Markdown","example"],"draft":false,"content":"$3"}]}],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MZhIdgmGY1_zgDL1s_dQX"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"tag":"FunRadiusP","posts":[{"id":"example","title":"markdown 语法","published":"9999年12月31日","description":"Markdown 语法","category":"Note","tags":["FunRadiusP","Markdown","example"],"draft":false,"content":"$3"}]}],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"YjpgISVZptXMegFRSMzhg"}
 4:["$","script","script-0",{"src":"/FunRadiusP/_next/static/chunks/16ve0xoop~_qh.js","async":true}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
