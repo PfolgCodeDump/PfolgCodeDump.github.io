@@ -95,7 +95,7 @@ npm start
 
 [structure.html](public/structure.html)
 
-<https://pfolgcodedump.github.io/FunRadiusP/structure>
+<https://pfolgcodedump.github.io/FunRadiusP/structure.html>
 
 ## 文章格式
 
