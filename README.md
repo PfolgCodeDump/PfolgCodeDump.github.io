@@ -5,7 +5,7 @@
 > [!NOTE]
 > 本项目90%以上代码由AI生成
 >
-> GitHub 部署: <https://pfolgcodedump.github.io/FunRadiusP/> (不推荐)
+> GitHub 部署: <https://pfolgcodedump.github.io> (不推荐)
 >
 > Cloudflare 部署: <https://pg25-lsae.eu.org/> (推荐)
 >
@@ -95,7 +95,7 @@ npm start
 
 [structure.html](public/structure.html)
 
-<https://pfolgcodedump.github.io/FunRadiusP/structure.html>
+<https://pfolgcodedump.github.io/structure.html>
 
 ## 文章格式
 
