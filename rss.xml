@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FunRadiusP]]></title>
+        <description><![CDATA[FunRadiusP 演示页]]></description>
+        <link>https://pfolgcodedump.github.io</link>
+        <image>
+            <url>https://pfolgcodedump.github.io/favicon.png</url>
+            <title>FunRadiusP</title>
+            <link>https://pfolgcodedump.github.io</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 29 Apr 2026 05:05:53 GMT</lastBuildDate>
+        <atom:link href="https://pfolgcodedump.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 29 Apr 2026 05:05:53 GMT</pubDate>
+        <copyright><![CDATA[2026 Pfolg]]></copyright>
+        <language><![CDATA[zh-CN]]></language>
+        <managingEditor><![CDATA[Pfolg]]></managingEditor>
+        <webMaster><![CDATA[Pfolg]]></webMaster>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[markdown 语法]]></title>
+            <description><![CDATA[Markdown 语法]]></description>
+            <link>https://pfolgcodedump.github.io/posts/example</link>
+            <guid isPermaLink="false">https://pfolgcodedump.github.io/posts/example</guid>
+            <category><![CDATA[Note]]></category>
+            <category><![CDATA[FunRadiusP]]></category>
+            <category><![CDATA[Markdown]]></category>
+            <category><![CDATA[example]]></category>
+            <dc:creator><![CDATA[Pfolg]]></dc:creator>
+            <pubDate>Fri, 31 Dec 9999 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

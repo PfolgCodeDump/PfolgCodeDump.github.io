@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[80540,["/FunRadiusP/_next/static/chunks/0jxzt82izh2d-.js","/FunRadiusP/_next/static/chunks/03g399uzq6ml..js","/FunRadiusP/_next/static/chunks/0d3shmwh5_nmn.js","/FunRadiusP/_next/static/chunks/0uuy5uxi5uiot.js","/FunRadiusP/_next/static/chunks/0crfj0j_pwjye.js"],"default"]
+3:I[97367,["/FunRadiusP/_next/static/chunks/0jxzt82izh2d-.js","/FunRadiusP/_next/static/chunks/03g399uzq6ml..js","/FunRadiusP/_next/static/chunks/0d3shmwh5_nmn.js","/FunRadiusP/_next/static/chunks/0uuy5uxi5uiot.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"year":"9999","posts":[{"id":"example","title":"markdown 语法","published":"9999年12月31日"}],"postsByYear":{"9999":[{"id":"example","title":"markdown 语法","published":"9999年12月31日"}]}}],[["$","script","script-0",{"src":"/FunRadiusP/_next/static/chunks/0crfj0j_pwjye.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MZhIdgmGY1_zgDL1s_dQX"}
+5:null
