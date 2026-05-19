@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="pfolgcodedump.github.io/">Live Demo</a> ·
-  <a href="pfolgcodedump.github.io/docs/deployment/">部署教程</a>
+  <a href="https://pfolgcodedump.github.io/">Live Demo</a> ·
+  <a href="https://pfolgcodedump.github.io/docs/deployment/">部署教程</a>
 </p>
 
 ---
