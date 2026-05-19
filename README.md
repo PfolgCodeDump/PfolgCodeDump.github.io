@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://pg25-lsae.eu.org/">Live Demo</a> ·
-  <a href="https://pg25-lsae.eu.org/docs/deployment/">部署教程</a>
+  <a href="pfolgcodedump.github.io/">Live Demo</a> ·
+  <a href="pfolgcodedump.github.io/docs/deployment/">部署教程</a>
 </p>
 
 ---
@@ -35,7 +35,7 @@ FunRadiusP 是一个基于 **Next.js 16** + **TypeScript** + **Tailwind CSS** �
 ## 快速开始
 
 ```bash
-git clone https://github.com/igugyj/FunRadiusP.git
+git clone https://github.com/igugyj/FunRadiusP.git # origin repo
 cd FunRadiusP
 npm install
 cp .env.example .env.local
