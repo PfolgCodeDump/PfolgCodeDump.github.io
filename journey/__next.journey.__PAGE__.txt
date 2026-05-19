@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:I[44289,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0g2f-1kp76v7m.js"],"default"]
+4:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T8ef,<h3 id="2026">2026</h3>
+<ul>
+<li>03月：学习了C语言，学习了数据结构</li>
+<li>04月：React简单了解了一下，用TRAE全程AI开发了用Next.js + TypeScript + Tailwind CSS的静态博客（v3），完全重构了v2的Python+Jinja2博客</li>
+</ul>
+<hr>
+<h3 id="2025">2025</h3>
+<ul>
+<li>01月：强行入门Linux，使用了2个月linux（ubuntu, kubuntu），因为网卡问题回退Windows</li>
+<li>03月：学习了PyQt，由于PySide6与之共通，现在开发Gui主要是用PySide6</li>
+<li>04月：系统性入门前端，Django入门（已经不会了），会一点点Flask</li>
+<li>06月：本想用PySide6做一个GalGame框架，后停滞；初识RenPy，7月时利用豆包AI复刻了《小狗帕波和小猫布斯的故事》</li>
+<li>07月：使用fuwari建立博客网站（v1），开始学习Cpp，想用Cpp的Qt重写QuickTray（于PLauncher中）</li>
+<li>08月：学了一点Cpp，并尝试用Qt做GUI开发</li>
+<li>09月：加入了一些开源社群，积极开发Plauncher(现Pelr)</li>
+<li>11月：由于项目需要，学习了R语言，用于数据科学；用HTML、CSS、JavaScript、Python、Jinja2、Markdown开发了这个博客（v2）</li>
+<li>12月：日常写写小工具，开源社区冲浪，准备学Android开发（Kotlin）</li>
+</ul>
+<hr>
+<h3 id="2024">2024</h3>
+<ul>
+<li>03月：在大学第一次接触编程语言，学的是Python，最喜欢的一门语言</li>
+<li>04月：入门dart，但因flutter开发过于复杂后放弃；简单入门了前端</li>
+<li>07月：入门Java失败，没有抽时间去琢磨</li>
+<li>09月：学习了Fortran，这是一门古老高效的语言</li>
+<li>10月：PS PR入门，试着自己P图和剪视频；在Bilibili发布了一些入门的rubbish，后因可能的版权问题关闭了公开可见</li>
+<li>11月：学会PS顺势学习了Live2D，并在Live2DViewerEX（steam）上发布了第一个LAYLA-1.0模型</li>
+<li>12月：学习了C#，顺势学习unity，后因某事件放弃，正在考虑godot</li>
+</ul>
+<hr>
+<h3 id="2023">2023</h3>
+<ul>
+<li>09月：在大学计算机基础课上入门了Raptor，初识计算思维</li>
+</ul>
+<hr>
+<h3 id="2022">2022</h3>
+<ul>
+<li>在高中时多次听说编程这个概念，但是没有机会和条件进一步了解</li>
+</ul>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-4xl mx-auto","children":[["$","$L2",null,{"translationKey":"journeyPage.title"}],["$","div",null,{"className":"card p-6","children":["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0g2f-1kp76v7m.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PW5nSvp0jmRCikrAw1VF0"}
+6:null

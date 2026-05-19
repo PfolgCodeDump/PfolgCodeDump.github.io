@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[58401,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0p9y8by5b6b5f.js"],"default"]
+3:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"demos":[{"id":"example","title":"简单计数器","description":"一个使用原生 JavaScript 实现的简单计数器","tags":["JavaScript","HTML","CSS"],"author":"AI Agent","date":"2026-04-09","published":true,"hasDemoHtml":true,"hasShowHtml":false,"assets":[]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/0p9y8by5b6b5f.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PW5nSvp0jmRCikrAw1VF0"}
+5:null

@@ -1,0 +1,157 @@
+1:"$Sreact.fragment"
+2:I[44289,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0g2f-1kp76v7m.js"],"default"]
+6:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1d6b,<div class="callout callout-blue"><div class="callout-header"><svg class="callout-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg><span class="callout-title">NOTE</span></div><div class="callout-content">
+<p>本页内容更新可能不及时，请以社区页内容为准。</p>
+</div></div>
+<hr>
+<h3 id="pelr">Pelr</h3>
+<ul>
+<li><strong>语言</strong>：C++</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：Utility-oriented Windows desktop pet</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/Pelr">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="funradiusp">FunRadiusP</h3>
+<ul>
+<li><strong>语言</strong>：TypeScript</li>
+<li><strong>许可证</strong>：CC BY-NC-SA 4.0</li>
+<li><strong>描述</strong>：花哨的静态博客生成器</li>
+<li><strong>链接</strong>：<a href="https://github.com/PfolgCodeDump/FunRadiusP">GitHub</a></li>
+<li><strong>备注</strong>: 静态博客的安全问题就当氛围灯吧。</li>
+</ul>
+<hr>
+<h3 id="dailyapi">DailyAPI</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：一个聚合了多平台实时热搜的桌面应用项目</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/DailyAPI">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="ptab">PTab</h3>
+<ul>
+<li><strong>语言</strong>：React</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：一个简单的以本地视频为背景的沉浸式 Chrome 新标签页扩展</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/PTab">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="status">status</h3>
+<ul>
+<li><strong>语言</strong>：C++</li>
+<li><strong>许可证</strong>：CC-BY-4.0</li>
+<li><strong>描述</strong>：一个简洁的Windows桌面状态显示应用，在屏幕右上角显示当前有效的状态图标。</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/status">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="stickersmanager">StickersManager</h3>
+<ul>
+<li><strong>语言</strong>：C++, Python</li>
+<li><strong>许可证</strong>：CC-BY-4.0</li>
+<li><strong>描述</strong>：Windows10/11 Stickers Manager</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/StickersManager2">GitHub1</a> · <a href="https://github.com/igugyj/StickersManager">GitHub2</a></li>
+</ul>
+<hr>
+<h3 id="webdavserver">WebDavServer</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：CC-BY-4.0</li>
+<li><strong>描述</strong>：一个基于 Python + PySide6 的轻量级 WebDAV 服务管理工具，提供可视化配置界面，支持跨平台运行。</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/WebDavServer">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="拾光课程表">拾光课程表</h3>
+<ul>
+<li><strong>语言</strong>：Kotlin</li>
+<li><strong>许可证</strong>：Apache-2.0 license</li>
+<li><strong>描述</strong>：一款开源、无广告、极简的课程表 APP，支持教务导入</li>
+<li><strong>链接</strong>：<a href="https://github.com/XingHeYuZhuan/shiguangschedule">GitHub</a></li>
+<li><strong>贡献</strong>: <a href="https://github.com/XingHeYuZhuan/shiguang_warehouse/pull/233">shiguang_warehous #233</a></li>
+</ul>
+<hr>
+<h3 id="image_show">image_show</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：GPL-3.0</li>
+<li><strong>描述</strong>：Full-Screen Playback of All Images in a Directory</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/image_show">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="ascii_art">ASCII_ART</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：CC-BY-4.0</li>
+<li><strong>描述</strong>：A Python program that converts videos into ASCII art and plays them in real-time in the terminal by extracting frames with FFmpeg and mapping pixels to characters.</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/ASCII_ART">GitHub</a> · <a href="https://gitee.com/Pfolg/ascii-video-player">Gitee</a></li>
+</ul>
+<hr>
+<h3 id="blindwatermark">BlindWaterMark</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：基于PySide6，blind_watermark的盲水印工具</li>
+<li><strong>链接</strong>：<a href="https://gitee.com/Pfolg/blind-water-mark">Gitee</a></li>
+</ul>
+<hr>
+<h3 id="activatewindows">ActivateWindows</h3>
+<ul>
+<li><strong>语言</strong>：C++</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：在Windows上显示激活水印，可自定义</li>
+<li><strong>链接</strong>：<a href="https://gitee.com/Pfolg/ActivateWindows">Gitee</a> · <a href="https://github.com/Pfolg/WindowsWaterMark">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="rdsentence">RDSentence</h3>
+<ul>
+<li><strong>语言</strong>：C++</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：本地化的、支持自定义、随机在桌面展示语句，可跨平台</li>
+<li><strong>链接</strong>：<a href="https://gitee.com/Pfolg/RDSentence">Gitee</a></li>
+</ul>
+<hr>
+<h3 id="duckduckstudiofufu_tools开发状态不活跃">DuckDuckStudio/Fufu_Tools（开发状态：不活跃）</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：芙芙工具箱许可文件</li>
+<li><strong>描述</strong>：芙芙工具箱是一个集合许多小工具的 Windows 工具箱。</li>
+<li><strong>链接</strong>：<a href="https://github.com/DuckDuckStudio/Fufu_Tools">GitHub</a></li>
+<li><strong>贡献</strong>：<a href="https://github.com/DuckDuckStudio/Fufu_Tools/pull/191">#191</a> · <a href="https://github.com/DuckDuckStudio/Fufu_Tools/pull/229">#229</a></li>
+</ul>
+<hr>
+<h3 id="browseryearreview开发状态不活跃">BrowserYearReview（开发状态：不活跃）</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：None</li>
+<li><strong>描述</strong>：Edge Browser Year Review</li>
+<li><strong>链接</strong>：<a href="https://github.com/Pfolg/BrowserYearReview">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="quicktray开发状态不活跃">QuickTray（开发状态：不活跃）</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：A system tray utility based on PySide6, providing quick launch and text display functions.</li>
+<li><strong>链接</strong>：<a href="https://github.com/Pfolg/QuickTray">GitHub1</a> · <a href="https://github.com/igugyj/QuickTray">GitHub2</a></li>
+</ul>
+<hr>
+<h3 id="keymonitor开发状态不活跃">KeyMonitor（开发状态：不活跃）</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：Show which key you pressd. | 显示你的按键</li>
+<li><strong>链接</strong>：<a href="https://github.com/Pfolg/KeyMonitor">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="iconchanger">IconChanger</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：Change Windows folder icon</li>
+<li><strong>链接</strong>：<a href="https://github.com/Pfolg/IconChanger">GitHub</a> · <a href="https://gitee.com/Pfolg/IconChanger">Gitee</a></li>
+</ul>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-4xl mx-auto","children":[["$","$L2",null,{"translationKey":"projectsPage.title"}],["$","div",null,{"className":"card p-6","children":["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]}]]}],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PW5nSvp0jmRCikrAw1VF0"}
+4:["$","script","script-0",{"src":"/_next/static/chunks/0g2f-1kp76v7m.js","async":true}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

@@ -1,0 +1,82 @@
+1:"$Sreact.fragment"
+2:I[44289,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0i99og~z9-e5j.js"],"default"]
+3:I[48410,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0i99og~z9-e5j.js"],"default"]
+4:I[9214,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0i99og~z9-e5j.js"],"default"]
+8:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+5:T1a15,<!-- prettier-ignore-start -->
+<div style="text-align: left;">
+<blockquote>
+<p>A rookie | Seeking between the ebb and flow of binary tides.</p>
+</blockquote>
+<ul>
+<li><strong>Location</strong>: Orion Arm of the Milky Way</li>
+<li><strong>Identity</strong>: Student</li>
+<li><strong>Email</strong>: hello[at]pg25-lsae.eu.org (receiving only)</li>
+</ul>
+<p>Connect: Feel free to connect and collaborate!</p>
+<h2 id="skills--tools">Skills &#x26; Tools</h2>
+<h3 id="core-skills">Core Skills</h3>
+<p><a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&#x26;logo=python&#x26;logoColor=white" alt="Python"></a> <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&#x26;logo=c%2B%2B&#x26;logoColor=white" alt="C++"></a> <a href="https://live2d.com"><img src="https://img.shields.io/badge/Live2D-FF6C37?style=flat-square" alt="Live2D"></a> <a href="https://developer.mozilla.org"><img src="https://img.shields.io/badge/Frontend-FFB13B?style=flat-square&#x26;logo=html5&#x26;logoColor=white" alt="Frontend"></a></p>
+<h3 id="frameworks">Frameworks</h3>
+<p><a href="https://qt.io"><img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&#x26;logo=qt&#x26;logoColor=white" alt="Qt"></a>
+<a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&#x26;logo=react&#x26;logoColor=black" alt="React"></a>
+<a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&#x26;logo=flask&#x26;logoColor=white" alt="Flask"></a>
+<a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&#x26;logo=vue.js&#x26;logoColor=white" alt="Vue"></a></p>
+<details>
+<summary><b>Preferred Tools</b></summary>
+<p><a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&#x26;logo=vscode&#x26;logoColor=white" alt="VS Code"></a>
+<a href="https://jetbrains.com/pycharm"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&#x26;logo=pycharm&#x26;logoColor=white" alt="PyCharm"></a>
+<a href="https://jetbrains.com/clion"><img src="https://img.shields.io/badge/CLion-000000?style=flat-square&#x26;logo=clion&#x26;logoColor=white" alt="CLion"></a>
+<a href="https://gimp.org"><img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&#x26;logo=gimp&#x26;logoColor=white" alt="GIMP"></a>
+<a href="https://kdenlive.org"><img src="https://img.shields.io/badge/Kdenlive-108C8C?style=flat-square&#x26;logo=kdenlive&#x26;logoColor=white" alt="Kdenlive"></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&#x26;logo=git&#x26;logoColor=white" alt="Git"></a></p>
+</details>
+<details>
+<summary><b>Infrequent Skills</b></summary>
+<p><a href="https://isocpp.org"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&#x26;logo=c&#x26;logoColor=white" alt="C"></a>
+<a href="https://fortran-lang.org"><img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&#x26;logo=fortran&#x26;logoColor=white" alt="Fortran"></a>
+<a href="https://r-project.org"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&#x26;logo=r&#x26;logoColor=white" alt="R"></a>
+<a href="https://learn.microsoft.com/dotnet/csharp"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&#x26;logo=csharp&#x26;logoColor=white" alt="C#"></a>
+<a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&#x26;logo=kotlin&#x26;logoColor=white" alt="Kotlin"></a>
+<a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&#x26;logo=dart&#x26;logoColor=white" alt="Dart"></a>
+<a href="https://kernel.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&#x26;logo=linux&#x26;logoColor=black" alt="Linux"></a>
+<a href="https://autohotkey.com"><img src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&#x26;logo=autohotkey&#x26;logoColor=white" alt="AutoHotkey"></a></p>
+</details>
+<details>
+<summary><b>Other Tools</b></summary>
+<p><a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square" alt="OpenCode"></a>
+<a href="https://trae.cn"><img src="https://img.shields.io/badge/Trae%20CN-412991?style=flat-square&#x26;logo=bytedance&#x26;logoColor=white" alt="Trae CN"></a>
+<a href="https://visualstudio.microsoft.com"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&#x26;logo=dotnet&#x26;logoColor=white" alt="Visual Studio"></a>
+<a href="https://rstudio.com"><img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&#x26;logo=rstudioide&#x26;logoColor=white" alt="RStudio"></a>
+<a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&#x26;logo=androidstudio&#x26;logoColor=white" alt="Android Studio"></a>
+<a href="https://jetbrains.com/idea"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&#x26;logo=intellijidea&#x26;logoColor=white" alt="IntelliJ IDEA"></a>
+<a href="https://unity.com"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&#x26;logo=unity&#x26;logoColor=black" alt="Unity"></a>
+<a href="https://live2d.com"><img src="https://img.shields.io/badge/Live2D%20Cubism-FF6C37?style=flat-square" alt="Live2D Cubism"></a>
+<a href="https://virtualbox.org"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&#x26;logo=virtualbox&#x26;logoColor=white" alt="VirtualBox"></a>
+<a href="https://vmware.com"><img src="https://img.shields.io/badge/VMware-607078?style=flat-square&#x26;logo=vmware&#x26;logoColor=white" alt="VMware"></a>
+<a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&#x26;logo=docker&#x26;logoColor=white" alt="Docker"></a>
+<a href="https://qgis.org"><img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&#x26;logo=qgis&#x26;logoColor=white" alt="QGIS"></a></p>
+</details>
+</div>
+<hr>
+<div style="text-align: left;">
+<details>
+    <summary>Sponsor</summary>
+<table style="border-collapse: collapse; margin: 0; padding: 0;">
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="/about/sponsorEmoji.png" alt="WeChat Sponsor" width="190px">
+    </td>
+    <td style="vertical-align: top; text-align: center;">
+      <img src="/about/wechatSponsor.png" alt="WeChat Sponsor" width="180px">
+      </p>
+      WeChat
+    </td>
+  </tr>
+</table>
+</details>
+</div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-4xl mx-auto","children":[["$","$L2",null,{"translationKey":"about.title"}],["$","div",null,{"className":"card p-6","children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"prose max-w-none","style":{"display":"block","margin":"0 auto","textAlign":"center"},"dangerouslySetInnerHTML":{"__html":"$5"}}]]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PW5nSvp0jmRCikrAw1VF0"}
+6:["$","script","script-0",{"src":"/_next/static/chunks/0i99og~z9-e5j.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

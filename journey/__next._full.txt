@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[2942,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"LanguageProvider"]
+3:I[11400,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"ImageViewerProvider"]
+4:I[61943,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+5:I[93983,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+6:I[39756,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+7:I[37457,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+8:I[36768,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0gk98.~jtx47q.js"],"default"]
+9:I[87392,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+a:I[47716,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+b:I[63361,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+c:I[93848,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+d:I[45117,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+f:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"ViewportBoundary"]
+15:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"MetadataBoundary"]
+17:I[68027,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default",1]
+:HL["/_next/static/chunks/0lzhlnyj8uhn2.css","style"]
+0:{"P":null,"c":["","journey",""],"q":"","i":false,"f":[[["",{"children":["journey",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0lzhlnyj8uhn2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0.aca6ku.ojnn.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0cxx1qajesju4.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/0d5rnzpsw3r4r.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0~ufc09a5hgi9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":["$","$L3",null,{"children":[["$","$L4",null,{}],["$","script",null,{"id":"structured-data-website","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"FunRadiusP\",\"url\":\"https://pfolgcodedump.github.io/\",\"description\":\"Your personal blog - sharing learning, life, and thoughts about programming and technology\",\"author\":{\"@type\":\"Person\",\"name\":\"Pfolg\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Pfolg\"},\"inLanguage\":\"zh-CN\"}"}}],false,["$","$L5",null,{}],["$","main",null,{"className":"container mx-auto px-4 py-8 relative z-10","style":{"paddingTop":"96px"},"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Le",[["$","script","script-0",{"src":"/_next/static/chunks/0g2f-1kp76v7m.js","async":true,"nonce":"$undefined"}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],{},null,false,null]},null,false,"$@12"]},null,false,null],["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],null]}],false]],"m":"$undefined","G":["$17",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0lzhlnyj8uhn2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"PW5nSvp0jmRCikrAw1VF0"}
+18:[]
+12:"$W18"
+19:I[44289,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0g2f-1kp76v7m.js"],"default"]
+1a:T8ef,<h3 id="2026">2026</h3>
+<ul>
+<li>03月：学习了C语言，学习了数据结构</li>
+<li>04月：React简单了解了一下，用TRAE全程AI开发了用Next.js + TypeScript + Tailwind CSS的静态博客（v3），完全重构了v2的Python+Jinja2博客</li>
+</ul>
+<hr>
+<h3 id="2025">2025</h3>
+<ul>
+<li>01月：强行入门Linux，使用了2个月linux（ubuntu, kubuntu），因为网卡问题回退Windows</li>
+<li>03月：学习了PyQt，由于PySide6与之共通，现在开发Gui主要是用PySide6</li>
+<li>04月：系统性入门前端，Django入门（已经不会了），会一点点Flask</li>
+<li>06月：本想用PySide6做一个GalGame框架，后停滞；初识RenPy，7月时利用豆包AI复刻了《小狗帕波和小猫布斯的故事》</li>
+<li>07月：使用fuwari建立博客网站（v1），开始学习Cpp，想用Cpp的Qt重写QuickTray（于PLauncher中）</li>
+<li>08月：学了一点Cpp，并尝试用Qt做GUI开发</li>
+<li>09月：加入了一些开源社群，积极开发Plauncher(现Pelr)</li>
+<li>11月：由于项目需要，学习了R语言，用于数据科学；用HTML、CSS、JavaScript、Python、Jinja2、Markdown开发了这个博客（v2）</li>
+<li>12月：日常写写小工具，开源社区冲浪，准备学Android开发（Kotlin）</li>
+</ul>
+<hr>
+<h3 id="2024">2024</h3>
+<ul>
+<li>03月：在大学第一次接触编程语言，学的是Python，最喜欢的一门语言</li>
+<li>04月：入门dart，但因flutter开发过于复杂后放弃；简单入门了前端</li>
+<li>07月：入门Java失败，没有抽时间去琢磨</li>
+<li>09月：学习了Fortran，这是一门古老高效的语言</li>
+<li>10月：PS PR入门，试着自己P图和剪视频；在Bilibili发布了一些入门的rubbish，后因可能的版权问题关闭了公开可见</li>
+<li>11月：学会PS顺势学习了Live2D，并在Live2DViewerEX（steam）上发布了第一个LAYLA-1.0模型</li>
+<li>12月：学习了C#，顺势学习unity，后因某事件放弃，正在考虑godot</li>
+</ul>
+<hr>
+<h3 id="2023">2023</h3>
+<ul>
+<li>09月：在大学计算机基础课上入门了Raptor，初识计算思维</li>
+</ul>
+<hr>
+<h3 id="2022">2022</h3>
+<ul>
+<li>在高中时多次听说编程这个概念，但是没有机会和条件进一步了解</li>
+</ul>e:["$","div",null,{"className":"max-w-4xl mx-auto","children":[["$","$L19",null,{"translationKey":"journeyPage.title"}],["$","div",null,{"className":"card p-6","children":["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$1a"}}]}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"IconMark"]
+11:null
+16:[["$","title","0",{"children":"Journey | FunRadiusP"}],["$","meta","1",{"name":"description","content":"My growth journey"}],["$","link","2",{"rel":"author","href":"https://pfolgcodedump.github.io"}],["$","meta","3",{"name":"author","content":"Pfolg"}],["$","meta","4",{"name":"keywords","content":"blog,personal blog,tech blog,learning,life,programming,web development,React,Next.js"}],["$","meta","5",{"name":"creator","content":"Pfolg"}],["$","meta","6",{"name":"publisher","content":"Pfolg"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","9",{"rel":"canonical","href":"https://pfolgcodedump.github.io/journey/"}],["$","link","10",{"rel":"alternate","hrefLang":"zh","href":"https://pfolgcodedump.github.io/journey/"}],["$","link","11",{"rel":"alternate","hrefLang":"en","href":"https://pfolgcodedump.github.io/journey/"}],["$","link","12",{"rel":"alternate","hrefLang":"es","href":"https://pfolgcodedump.github.io/journey/"}],["$","link","13",{"rel":"alternate","hrefLang":"ja","href":"https://pfolgcodedump.github.io/journey/"}],["$","link","14",{"rel":"alternate","hrefLang":"de","href":"https://pfolgcodedump.github.io/journey/"}],["$","link","15",{"rel":"alternate","hrefLang":"fr","href":"https://pfolgcodedump.github.io/journey/"}],["$","meta","16",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","17",{"property":"og:title","content":"Journey | FunRadiusP"}],["$","meta","18",{"property":"og:description","content":"My growth journey"}],["$","meta","19",{"property":"og:url","content":"https://pfolgcodedump.github.io/journey/"}],["$","meta","20",{"property":"og:site_name","content":"FunRadiusP"}],["$","meta","21",{"property":"og:locale","content":"en"}],["$","meta","22",{"property":"og:image","content":"https://pfolgcodedump.github.io/og-image.svg"}],["$","meta","23",{"property":"og:image:width","content":"1200"}],["$","meta","24",{"property":"og:image:height","content":"630"}],["$","meta","25",{"property":"og:image:alt","content":"FunRadiusP"}],["$","meta","26",{"property":"og:type","content":"website"}],["$","meta","27",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","28",{"name":"twitter:title","content":"Journey | FunRadiusP"}],["$","meta","29",{"name":"twitter:description","content":"My growth journey"}],["$","meta","30",{"name":"twitter:image","content":"https://pfolgcodedump.github.io/og-image.svg"}],["$","link","31",{"rel":"icon","href":"/favicon.png"}],["$","link","32",{"rel":"apple-touch-icon","href":"/favicon.png"}],["$","$L1b","33",{}]]

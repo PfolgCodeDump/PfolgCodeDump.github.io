@@ -1,0 +1,177 @@
+1:"$Sreact.fragment"
+2:I[2942,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"LanguageProvider"]
+3:I[11400,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"ImageViewerProvider"]
+4:I[61943,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+5:I[93983,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+6:I[39756,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+7:I[37457,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+8:I[36768,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0gk98.~jtx47q.js"],"default"]
+9:I[87392,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+a:I[47716,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+b:I[63361,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+c:I[93848,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+d:I[45117,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default"]
+f:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"ViewportBoundary"]
+15:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"MetadataBoundary"]
+17:I[68027,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"default",1]
+:HL["/_next/static/chunks/0lzhlnyj8uhn2.css","style"]
+0:{"P":null,"c":["","projects",""],"q":"","i":false,"f":[[["",{"children":["projects",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0lzhlnyj8uhn2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0.aca6ku.ojnn.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0cxx1qajesju4.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/0d5rnzpsw3r4r.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0~ufc09a5hgi9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":["$","$L3",null,{"children":[["$","$L4",null,{}],["$","script",null,{"id":"structured-data-website","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"FunRadiusP\",\"url\":\"https://pfolgcodedump.github.io/\",\"description\":\"Your personal blog - sharing learning, life, and thoughts about programming and technology\",\"author\":{\"@type\":\"Person\",\"name\":\"Pfolg\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Pfolg\"},\"inLanguage\":\"zh-CN\"}"}}],false,["$","$L5",null,{}],["$","main",null,{"className":"container mx-auto px-4 py-8 relative z-10","style":{"paddingTop":"96px"},"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Le",[["$","script","script-0",{"src":"/_next/static/chunks/0g2f-1kp76v7m.js","async":true,"nonce":"$undefined"}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],{},null,false,null]},null,false,"$@12"]},null,false,null],["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],null]}],false]],"m":"$undefined","G":["$17",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0lzhlnyj8uhn2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"PW5nSvp0jmRCikrAw1VF0"}
+18:[]
+12:"$W18"
+19:I[44289,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0g2f-1kp76v7m.js"],"default"]
+1a:T1d6b,<div class="callout callout-blue"><div class="callout-header"><svg class="callout-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg><span class="callout-title">NOTE</span></div><div class="callout-content">
+<p>本页内容更新可能不及时，请以社区页内容为准。</p>
+</div></div>
+<hr>
+<h3 id="pelr">Pelr</h3>
+<ul>
+<li><strong>语言</strong>：C++</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：Utility-oriented Windows desktop pet</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/Pelr">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="funradiusp">FunRadiusP</h3>
+<ul>
+<li><strong>语言</strong>：TypeScript</li>
+<li><strong>许可证</strong>：CC BY-NC-SA 4.0</li>
+<li><strong>描述</strong>：花哨的静态博客生成器</li>
+<li><strong>链接</strong>：<a href="https://github.com/PfolgCodeDump/FunRadiusP">GitHub</a></li>
+<li><strong>备注</strong>: 静态博客的安全问题就当氛围灯吧。</li>
+</ul>
+<hr>
+<h3 id="dailyapi">DailyAPI</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：一个聚合了多平台实时热搜的桌面应用项目</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/DailyAPI">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="ptab">PTab</h3>
+<ul>
+<li><strong>语言</strong>：React</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：一个简单的以本地视频为背景的沉浸式 Chrome 新标签页扩展</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/PTab">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="status">status</h3>
+<ul>
+<li><strong>语言</strong>：C++</li>
+<li><strong>许可证</strong>：CC-BY-4.0</li>
+<li><strong>描述</strong>：一个简洁的Windows桌面状态显示应用，在屏幕右上角显示当前有效的状态图标。</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/status">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="stickersmanager">StickersManager</h3>
+<ul>
+<li><strong>语言</strong>：C++, Python</li>
+<li><strong>许可证</strong>：CC-BY-4.0</li>
+<li><strong>描述</strong>：Windows10/11 Stickers Manager</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/StickersManager2">GitHub1</a> · <a href="https://github.com/igugyj/StickersManager">GitHub2</a></li>
+</ul>
+<hr>
+<h3 id="webdavserver">WebDavServer</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：CC-BY-4.0</li>
+<li><strong>描述</strong>：一个基于 Python + PySide6 的轻量级 WebDAV 服务管理工具，提供可视化配置界面，支持跨平台运行。</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/WebDavServer">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="拾光课程表">拾光课程表</h3>
+<ul>
+<li><strong>语言</strong>：Kotlin</li>
+<li><strong>许可证</strong>：Apache-2.0 license</li>
+<li><strong>描述</strong>：一款开源、无广告、极简的课程表 APP，支持教务导入</li>
+<li><strong>链接</strong>：<a href="https://github.com/XingHeYuZhuan/shiguangschedule">GitHub</a></li>
+<li><strong>贡献</strong>: <a href="https://github.com/XingHeYuZhuan/shiguang_warehouse/pull/233">shiguang_warehous #233</a></li>
+</ul>
+<hr>
+<h3 id="image_show">image_show</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：GPL-3.0</li>
+<li><strong>描述</strong>：Full-Screen Playback of All Images in a Directory</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/image_show">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="ascii_art">ASCII_ART</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：CC-BY-4.0</li>
+<li><strong>描述</strong>：A Python program that converts videos into ASCII art and plays them in real-time in the terminal by extracting frames with FFmpeg and mapping pixels to characters.</li>
+<li><strong>链接</strong>：<a href="https://github.com/igugyj/ASCII_ART">GitHub</a> · <a href="https://gitee.com/Pfolg/ascii-video-player">Gitee</a></li>
+</ul>
+<hr>
+<h3 id="blindwatermark">BlindWaterMark</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：基于PySide6，blind_watermark的盲水印工具</li>
+<li><strong>链接</strong>：<a href="https://gitee.com/Pfolg/blind-water-mark">Gitee</a></li>
+</ul>
+<hr>
+<h3 id="activatewindows">ActivateWindows</h3>
+<ul>
+<li><strong>语言</strong>：C++</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：在Windows上显示激活水印，可自定义</li>
+<li><strong>链接</strong>：<a href="https://gitee.com/Pfolg/ActivateWindows">Gitee</a> · <a href="https://github.com/Pfolg/WindowsWaterMark">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="rdsentence">RDSentence</h3>
+<ul>
+<li><strong>语言</strong>：C++</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：本地化的、支持自定义、随机在桌面展示语句，可跨平台</li>
+<li><strong>链接</strong>：<a href="https://gitee.com/Pfolg/RDSentence">Gitee</a></li>
+</ul>
+<hr>
+<h3 id="duckduckstudiofufu_tools开发状态不活跃">DuckDuckStudio/Fufu_Tools（开发状态：不活跃）</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：芙芙工具箱许可文件</li>
+<li><strong>描述</strong>：芙芙工具箱是一个集合许多小工具的 Windows 工具箱。</li>
+<li><strong>链接</strong>：<a href="https://github.com/DuckDuckStudio/Fufu_Tools">GitHub</a></li>
+<li><strong>贡献</strong>：<a href="https://github.com/DuckDuckStudio/Fufu_Tools/pull/191">#191</a> · <a href="https://github.com/DuckDuckStudio/Fufu_Tools/pull/229">#229</a></li>
+</ul>
+<hr>
+<h3 id="browseryearreview开发状态不活跃">BrowserYearReview（开发状态：不活跃）</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：None</li>
+<li><strong>描述</strong>：Edge Browser Year Review</li>
+<li><strong>链接</strong>：<a href="https://github.com/Pfolg/BrowserYearReview">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="quicktray开发状态不活跃">QuickTray（开发状态：不活跃）</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：A system tray utility based on PySide6, providing quick launch and text display functions.</li>
+<li><strong>链接</strong>：<a href="https://github.com/Pfolg/QuickTray">GitHub1</a> · <a href="https://github.com/igugyj/QuickTray">GitHub2</a></li>
+</ul>
+<hr>
+<h3 id="keymonitor开发状态不活跃">KeyMonitor（开发状态：不活跃）</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：Show which key you pressd. | 显示你的按键</li>
+<li><strong>链接</strong>：<a href="https://github.com/Pfolg/KeyMonitor">GitHub</a></li>
+</ul>
+<hr>
+<h3 id="iconchanger">IconChanger</h3>
+<ul>
+<li><strong>语言</strong>：Python</li>
+<li><strong>许可证</strong>：MIT</li>
+<li><strong>描述</strong>：Change Windows folder icon</li>
+<li><strong>链接</strong>：<a href="https://github.com/Pfolg/IconChanger">GitHub</a> · <a href="https://gitee.com/Pfolg/IconChanger">Gitee</a></li>
+</ul>e:["$","div",null,{"className":"max-w-4xl mx-auto","children":[["$","$L19",null,{"translationKey":"projectsPage.title"}],["$","div",null,{"className":"card p-6","children":["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$1a"}}]}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"IconMark"]
+11:null
+16:[["$","title","0",{"children":"Projects | FunRadiusP"}],["$","meta","1",{"name":"description","content":"My project showcase"}],["$","link","2",{"rel":"author","href":"https://pfolgcodedump.github.io"}],["$","meta","3",{"name":"author","content":"Pfolg"}],["$","meta","4",{"name":"keywords","content":"blog,personal blog,tech blog,learning,life,programming,web development,React,Next.js"}],["$","meta","5",{"name":"creator","content":"Pfolg"}],["$","meta","6",{"name":"publisher","content":"Pfolg"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","9",{"rel":"canonical","href":"https://pfolgcodedump.github.io/projects/"}],["$","link","10",{"rel":"alternate","hrefLang":"zh","href":"https://pfolgcodedump.github.io/projects/"}],["$","link","11",{"rel":"alternate","hrefLang":"en","href":"https://pfolgcodedump.github.io/projects/"}],["$","link","12",{"rel":"alternate","hrefLang":"es","href":"https://pfolgcodedump.github.io/projects/"}],["$","link","13",{"rel":"alternate","hrefLang":"ja","href":"https://pfolgcodedump.github.io/projects/"}],["$","link","14",{"rel":"alternate","hrefLang":"de","href":"https://pfolgcodedump.github.io/projects/"}],["$","link","15",{"rel":"alternate","hrefLang":"fr","href":"https://pfolgcodedump.github.io/projects/"}],["$","meta","16",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","17",{"property":"og:title","content":"Projects | FunRadiusP"}],["$","meta","18",{"property":"og:description","content":"My project showcase"}],["$","meta","19",{"property":"og:url","content":"https://pfolgcodedump.github.io/projects/"}],["$","meta","20",{"property":"og:site_name","content":"FunRadiusP"}],["$","meta","21",{"property":"og:locale","content":"en"}],["$","meta","22",{"property":"og:image","content":"https://pfolgcodedump.github.io/og-image.svg"}],["$","meta","23",{"property":"og:image:width","content":"1200"}],["$","meta","24",{"property":"og:image:height","content":"630"}],["$","meta","25",{"property":"og:image:alt","content":"FunRadiusP"}],["$","meta","26",{"property":"og:type","content":"website"}],["$","meta","27",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","28",{"name":"twitter:title","content":"Projects | FunRadiusP"}],["$","meta","29",{"name":"twitter:description","content":"My project showcase"}],["$","meta","30",{"name":"twitter:image","content":"https://pfolgcodedump.github.io/og-image.svg"}],["$","link","31",{"rel":"icon","href":"/favicon.png"}],["$","link","32",{"rel":"apple-touch-icon","href":"/favicon.png"}],["$","$L1b","33",{}]]

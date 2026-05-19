@@ -1,0 +1,61 @@
+1:"$Sreact.fragment"
+2:I[44289,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0g2f-1kp76v7m.js"],"default"]
+6:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Te85,<h2 id="项目信息">项目信息</h2>
+<ul>
+<li><strong>项目名称</strong>: FunRadiusP</li>
+<li><strong>技术栈</strong>: Next.js + TypeScript + Tailwind CSS</li>
+<li><strong>项目类型</strong>: 静态博客网站</li>
+<li><strong>开源地址</strong>: <a href="https://github.com/PfolgCodeDump/FunRadiusP">https://github.com/PfolgCodeDump/FunRadiusP</a> MIT</li>
+</ul>
+<div class="callout callout-blue"><div class="callout-header"><svg class="callout-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg><span class="callout-title">NOTE</span></div><div class="callout-content">
+<p>本项目90%以上代码由AI生成</p>
+</div></div>
+<h2 id="资源来源">资源来源</h2>
+<table>
+<thead>
+<tr>
+<th align="center">资源</th>
+<th align="center">说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>Domain</strong></td>
+<td align="center">pfolg.qzz.io - <a href="https://github.com/DigitalPlatDev/FreeDomain">DigitalPlatDev/FreeDomain</a></p> pg25-lsae.eu.org - <a href="https://nic.eu.org/">EU.org</a></td>
+</tr>
+<tr>
+<td align="center"><strong>字体</strong></td>
+<td align="center"><a href="https://github.com/subframe7536/maple-font">ssubframe7536/maple-font:</a> Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项</td>
+</tr>
+<tr>
+<td align="center"><strong>404页面</strong></td>
+<td align="center"><a href="https://www.bilibili.com/video/BV1bb421a7rT/">[源码分享]纱雾404❤️二次元风404页面源码！_哔哩哔哩_bilibili</a></td>
+</tr>
+<tr>
+<td align="center"><strong>Live2D驱动</strong></td>
+<td align="center"><a href="https://github.com/oh-my-live2d/oh-my-live2d">oh-my-live2d/oh-my-live2d:</a> 应用于浏览器环境且开箱即用的Live2D组件, 它支持所有版本的Live2D模型, 使用方式足够简单并且高可自定义, 可以快速为您的个人网站添加Live2D看板娘, 使您的个人网站变得更具有特色.</td>
+</tr>
+<tr>
+<td align="center"><strong>Live2D models</strong></td>
+<td align="center"><a href="https://github.com/imuncle/live2d">imuncle/live2d:</a> live2d模型收集+展示，可直接用于静态网站</p> "TianyeLulu" · Commercial use authorized · <a href="https://tianyelulu.booth.pm">Booth Shop</a></td>
+</tr>
+<tr>
+<td align="center"><strong>粒子特效</strong></td>
+<td align="center"><a href="https://github.com/qtqz/natural-falling-effect">qtqz/natural-falling-effect:</a> 带来一年四季的景色，让你的网页飘落花瓣树叶下雨下雪。Make your webpage fall petals and leaves, or rain and snow.</td>
+</tr>
+<tr>
+<td align="center"><strong>评论系统</strong></td>
+<td align="center"><a href="https://giscus.app/">giscus</a></td>
+</tr>
+<tr>
+<td align="center"><strong>背景</strong></td>
+<td align="center">bg1: <a href="https://www.pixiv.net/artworks/142006973">#女の子 紬文德斯 - Sakei的插画 - pixiv</a></p>bg2: <a href="https://www.pixiv.net/artworks/137453472">#サマーポケッツ 無題 - miraikanai的插画 - pixiv</a></p>bg1-dark: <a href="https://www.pixiv.net/artworks/128453927">#SummerPockets 無題 - miraikanai的插画 - pixiv</a></p>bg2-dark: <a href="https://www.pixiv.net/artworks/132102535">#JK JK久岛鸥 - 色纳比的插画 - pixiv</a></td>
+</tr>
+</tbody>
+</table>
+<!-- - **主页语句**: [Hitokoto](https://hitokoto.cn/) -->0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-4xl mx-auto","children":[["$","$L2",null,{"translationKey":"informationPage.title"}],["$","div",null,{"className":"card mb-8 p-6","children":["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]}]]}],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PW5nSvp0jmRCikrAw1VF0"}
+4:["$","script","script-0",{"src":"/_next/static/chunks/0g2f-1kp76v7m.js","async":true}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
