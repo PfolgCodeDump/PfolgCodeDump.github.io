@@ -1,0 +1,9 @@
+{"t":"p","a":"markdown 语法","s":"markdown 语法 Markdown 语法 FunRadiusP Markdown example Note","u":"/posts/example/"}
+{"t":"d","a":"第一部分：环境准备","s":"第一部分：环境准备 安装开发环境配置与项目初始化","u":"/docs/deployment/p1/"}
+{"t":"d","a":"第二部分：项目配置","s":"第二部分：项目配置 环境变量与功能配置","u":"/docs/deployment/p2/"}
+{"t":"d","a":"第三部分：本地开发","s":"第三部分：本地开发 开发服务器使用与内容创作","u":"/docs/deployment/p3/"}
+{"t":"d","a":"第四部分：构建与部署","s":"第四部分：构建与部署 静态网站构建与多平台部署","u":"/docs/deployment/p4/"}
+{"t":"d","a":"第五部分：自定义与扩展","s":"第五部分：自定义与扩展 代码修改与功能定制","u":"/docs/deployment/p5/"}
+{"t":"d","a":"第六部分：常见问题","s":"第六部分：常见问题 故障排查与解决方案","u":"/docs/deployment/p6/"}
+{"t":"d","a":"总结","s":"总结 部署教程总结","u":"/docs/deployment/summary/"}
+{"t":"e","a":"简单计数器","s":"简单计数器 一个使用原生 JavaScript 实现的简单计数器 JavaScript HTML CSS","u":"/demos/example/"}

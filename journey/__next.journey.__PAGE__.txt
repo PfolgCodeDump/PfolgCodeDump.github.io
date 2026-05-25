@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[44289,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0g2f-1kp76v7m.js"],"default"]
-4:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"OutletBoundary"]
+2:I[44289,["/_next/static/chunks/022m_846jq-.g.js","/_next/static/chunks/0pck1obja2e70.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12ks9q4d9wpg3.js","/_next/static/chunks/0g2f-1kp76v7m.js"],"default"]
+4:I[97367,["/_next/static/chunks/022m_846jq-.g.js","/_next/static/chunks/0pck1obja2e70.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12ks9q4d9wpg3.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 3:T8ef,<h3 id="2026">2026</h3>
 <ul>
@@ -40,5 +40,5 @@
 <h3 id="2022">2022</h3>
 <ul>
 <li>在高中时多次听说编程这个概念，但是没有机会和条件进一步了解</li>
-</ul>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-4xl mx-auto","children":[["$","$L2",null,{"translationKey":"journeyPage.title"}],["$","div",null,{"className":"card p-6","children":["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0g2f-1kp76v7m.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PW5nSvp0jmRCikrAw1VF0"}
+</ul>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-4xl mx-auto","children":[["$","$L2",null,{"translationKey":"journeyPage.title"}],["$","div",null,{"className":"card p-6","children":["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0g2f-1kp76v7m.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A-74Ok_20-wDLM1hfLTF9"}
 6:null

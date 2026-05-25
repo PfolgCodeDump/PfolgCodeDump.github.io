@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[42557,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0lcn5~unqg-yl.js"],"default"]
-6:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"OutletBoundary"]
+2:I[42557,["/_next/static/chunks/022m_846jq-.g.js","/_next/static/chunks/0pck1obja2e70.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12ks9q4d9wpg3.js","/_next/static/chunks/0lcn5~unqg-yl.js"],"default"]
+6:I[97367,["/_next/static/chunks/022m_846jq-.g.js","/_next/static/chunks/0pck1obja2e70.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12ks9q4d9wpg3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 3:T11fb2,
 >[!NOTE]
@@ -1779,7 +1779,7 @@ $$
 [^脚注名字]:脚注名字
 [^1]:Markdown是一种纯文本标记语言
 [^2]:HyperText Markup Language 超文本标记语言
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"paginatedPosts":[{"id":"example","title":"markdown 语法","published":"9999年12月31日","description":"Markdown 语法","category":"Note","tags":["FunRadiusP","Markdown","example"],"draft":false,"content":"$3"}],"currentPage":1,"totalPages":1}],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PW5nSvp0jmRCikrAw1VF0"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"paginatedPosts":[{"id":"example","title":"markdown 语法","published":"9999年12月31日","description":"Markdown 语法","category":"Note","tags":["FunRadiusP","Markdown","example"],"draft":false,"content":"$3"}],"currentPage":1,"totalPages":1}],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A-74Ok_20-wDLM1hfLTF9"}
 4:["$","script","script-0",{"src":"/_next/static/chunks/0lcn5~unqg-yl.js","async":true}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

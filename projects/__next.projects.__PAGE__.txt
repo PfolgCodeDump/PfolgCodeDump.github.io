@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[44289,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js","/_next/static/chunks/0g2f-1kp76v7m.js"],"default"]
-6:I[97367,["/_next/static/chunks/0.aca6ku.ojnn.js","/_next/static/chunks/0cxx1qajesju4.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~ufc09a5hgi9.js"],"OutletBoundary"]
+2:I[44289,["/_next/static/chunks/022m_846jq-.g.js","/_next/static/chunks/0pck1obja2e70.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12ks9q4d9wpg3.js","/_next/static/chunks/0g2f-1kp76v7m.js"],"default"]
+6:I[97367,["/_next/static/chunks/022m_846jq-.g.js","/_next/static/chunks/0pck1obja2e70.js","/_next/static/chunks/0d5rnzpsw3r4r.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12ks9q4d9wpg3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 3:T1d6b,<div class="callout callout-blue"><div class="callout-header"><svg class="callout-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg><span class="callout-title">NOTE</span></div><div class="callout-content">
 <p>本页内容更新可能不及时，请以社区页内容为准。</p>
@@ -151,7 +151,7 @@
 <li><strong>许可证</strong>：MIT</li>
 <li><strong>描述</strong>：Change Windows folder icon</li>
 <li><strong>链接</strong>：<a href="https://github.com/Pfolg/IconChanger">GitHub</a> · <a href="https://gitee.com/Pfolg/IconChanger">Gitee</a></li>
-</ul>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-4xl mx-auto","children":[["$","$L2",null,{"translationKey":"projectsPage.title"}],["$","div",null,{"className":"card p-6","children":["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]}]]}],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PW5nSvp0jmRCikrAw1VF0"}
+</ul>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-4xl mx-auto","children":[["$","$L2",null,{"translationKey":"projectsPage.title"}],["$","div",null,{"className":"card p-6","children":["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]}]]}],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A-74Ok_20-wDLM1hfLTF9"}
 4:["$","script","script-0",{"src":"/_next/static/chunks/0g2f-1kp76v7m.js","async":true}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
